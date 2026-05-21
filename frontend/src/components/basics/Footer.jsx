@@ -77,7 +77,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://mail.google.com/mail/?view=cm&fs=1&to=suresaivenkatasritha@gmail.com"
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=suresaivenkataasritha@gmail.com"
                   className="no-underline hover:text-custom-pink"
                 >
                   Email
