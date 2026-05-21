@@ -2,7 +2,7 @@
   
 [![wakatime](https://wakatime.com/badge/user/1fc26c7a-896d-4495-8fa5-a34266fbb649/project/78fed24f-dc0a-4851-b96e-e305a1408586.svg)](https://wakatime.com/badge/user/1fc26c7a-896d-4495-8fa5-a34266fbb649/project/78fed24f-dc0a-4851-b96e-e305a1408586)
 
-<a href="https://drip-track.vercel.app/"><img src="frontend/src/assets/logo.png" height="100" />  </a> <b>Click this icon to view Project<b>
+<a href="https://drip-track-gules.vercel.app/auth"><img src="frontend/src/assets/logo.png" height="100" />  </a> <b>Click this icon to view Project<b>
 
 Ever feel like you have nothing to wear, even though your wardrobe is packed? DripTrack is here to change that. It helps you keep track of what clothes you already have and how often you wear them—all from your phone. No more digging through piles or buying clothes you don’t need. Just scroll through your wardrobe, mix and match outfits, and you’ll always know what you’ve got. Plus, by reducing unnecessary purchases, we’re all about sustainability and keeping your wardrobe organized.
 
